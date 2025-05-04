@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>845689489485-bqpbs52ee51b5kp3jgt4a77alkmmk4pg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.845689489485-bqpbs52ee51b5kp3jgt4a77alkmmk4pg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>845689489485-2k6qcr0oda0jis7pdimqto4uvnghnv4q.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsTCR0TBvgENkMgs1i_Ag2QqXZ-5RpUyI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>845689489485</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.med.software.demo.registrationWithFirebaseDemo</string>
+	<key>PROJECT_ID</key>
+	<string>fir-demo-bd4d4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-demo-bd4d4.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:845689489485:ios:63b1878026bacfaacef404</string>
+</dict>
+</plist>
